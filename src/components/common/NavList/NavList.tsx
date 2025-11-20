@@ -12,12 +12,10 @@ type NavLinkType = {
 const NavList: FC = () => {
     const navLinks: NavLinkType[] = [
         {
-            name: 'Start',
-            path: '/',
+            name: 'Start', path: '/',
         },
         {
-            name: '',
-            path: '/unternehmen',
+            name: '', path: '/unternehmen',
         },
         {
             name: 'Kompetenzen',
