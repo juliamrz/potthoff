@@ -21,12 +21,10 @@ const NavList: FC = () => {
             name: 'Kompetenzen', path: '/kompetenzen',
         },
         {
-            name: 'Projekte',
-            path: '/projekte',
+            name: 'Projekte', path: '/projekte',
         },
         {
-            name: 'Karriere',
-            path: '/karriere',
+            name: 'Karriere', path: '/karriere',
         },
         {
             name: 'News',
