@@ -11,7 +11,7 @@ const TextLabel: FC<TextLabelProps> = (props) => {
         classes,
         text,
     } = props;
-
+//test
     return (
         <div
             className={`h-10 rounded-[32px] bg-white leading-6 font-medium flex justify-center items-center min-w-[105px] ${classes}`}
