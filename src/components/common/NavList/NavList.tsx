@@ -27,8 +27,7 @@ const NavList: FC = () => {
             name: 'Karriere', path: '/karriere',
         },
         {
-            name: 'News',
-            path: '/news',
+            name: 'News', path: '/news',
         },
         {
             name: 'Partner',
